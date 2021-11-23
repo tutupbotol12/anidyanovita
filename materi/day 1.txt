@@ -1,0 +1,88 @@
+anidya novita
+semester 7 univ gunadarma
+asal bekasi
+motivasi, cari pengalaman magang sama belajar bareng 
+implementasi rest api waktu itu pernah di penulisan ilmiah semester 6
+
+================================================================
+agile
+- mampu merespon secara dinamis (punya mindset)
+- adaptasi ke jalan lain
+- menghantarkan value yang di archive
+terhadap keinginan market (target, kompetitor)
+
+values di mindset agile
+- interaksi dan komunikasi
+- collab sama user, customer biar tau kebutuhannya. misal case
+- ada informasi seperlunya (penjelasan fitur)(login deskripsinya gimana, 
+outputnya apa, yang make siapa
+- respon perubahan jangan stuck, bikin plan
+
+agile principles
+- harus aktif ngasih ide, punya plan, tau cara menyelesaikanya
+
+- traditional approach, waterfall
+harus analisa requirement, di approve, desain, baru
+development, cenderung strict to the plan(fokus dokumentasi)
+bikin design dari awal ampe akhir
+- agile approach, adaptasi dulu
+mvp, perhatiin kebutuhan market/user, pake iterasi
+misal customer req sesuatu, kita gali dulu kebutuhan user lain, cari ide
+trus coba develop dari hasil diskusi sama customer, tanya lagi udah oke
+atau belum bisa jadi ada revisi
+
+cynefin framework
+- kerangka berfikir secara konseptual
+- simple
+problem : kepanasan
+yang dilakuin : nyalain ac, kipas (tau cara nyalainnya)
+- complicated
+problem : mobil mogok
+yang dilakuin : panggil montir
+hubungan jelas tapi susah dipahamin
+== tergantng siapa yang lihat atau ngalamin
+- chaos 
+problem = kebakaran
+yang dilakuin/action = immediate action
+- complex= unpredictable
+gasadar ada problem
+problem = mobil mogok
+tapi montirnya gabisa langsung nyelesain
+inspect dulu baru di terapin
+
+Scrum
+kerangka kerja yang ringan unutk kerangka kerja yang complex,
+yang menyelesaikan bukan scrum tapi orang didalamnya
+3 pilar
+- transparansi
+= inspeksi
+- adaptasi
+didasari empirism : menyiapkan data terkini agar transparasi
+biar bisa ngelakuin inspeksi dan adaptasi
+
+scrum teams
+po = product owner, ada stakeholder (klien)
+developers = self manage (mandiri) tau apa yang dibutuhkan dan dilakukan
+scrum master = menerapkan scrum sesuai dengan step
+harus paham teori dan praktek scrum, termasuk job position
+
+perbedaan
+project = sekali kelar
+product = bakal ada perkembangan fitur
+
+scrum master = fokus ke user, jadi sm harus psm1
+project manager = fokus ke project, jaga timeline
+
+scrum artifact
+- product backlog
+apa aja yang mau dikerjain dan dibutuhkan buat
+menuju product goals
+- sprint backlog
+pekerjaan yang harus dikerjakan sesuai durasi yang
+ditentukan (Sprint)
+- increment 
+pekerjaan yang udah selesai dari ceklis sprint 
+backlog, udah sesuai sama definition of done
+
+to do list, progress, done
+
